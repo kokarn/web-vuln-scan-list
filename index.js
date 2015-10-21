@@ -1,6 +1,28 @@
 'use strict';
 
 module.exports = [
+    'webmap.cgi',
+    'helpdesk.cgi',
+    'info.cgi',
+    'administrator.cgi',
+    'index.cgi',
+    'admin.cgi',
+    'whois.cgi',
+    'report.cgi',
+    'main.cgi',
+    'index2.cgi',
+    'reboot.cgi',
+    'firewall.cgi',
+    'kontakt.cgi',
+    'query.cgi',
+    'concept.cgi',
+    'cgi-bin/printenv',
+    'backup.cgi',
+    'counter.cgi',
+    'supply.cgi',
+    'test.sh',
+    'formmail.cgi',
+    'count.cgi',
     'testproxy.php', // open proxy test
     'tmunblock.cgi',
     'getheaders9.php',

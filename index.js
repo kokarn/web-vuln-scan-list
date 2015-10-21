@@ -20,6 +20,7 @@ module.exports = [
     'kontakt.cgi',
     'main.cgi',
     'muieblackcat', // Muieblackcat http://eromang.zataz.com/2011/08/14/suc027-muieblackcat-setup-php-web-scanner-robot/
+    'zmap.io', // https://zmap.io/
     'query.cgi',
     'reboot.cgi',
     'report.cgi',

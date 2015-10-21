@@ -2,7 +2,7 @@
 
 module.exports = [
     'testproxy.php', // open proxy test
-    'tmUnblock.cgi',
+    'tmunblock.cgi',
     'getheaders9.php',
     'getheaders2.php',
     'cgi-bin/common/attr', // open proxy test

@@ -1,6 +1,6 @@
 {
   "name": "web-vuln-scan-list",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A list of paths scanned by automated systems to find vulnerabilities on a system",
   "main": "index.js",
   "scripts": {

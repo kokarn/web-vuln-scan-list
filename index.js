@@ -3,6 +3,9 @@
 module.exports = [
     'admin.cgi',
     'administrator.cgi',
+    'assetmanager.php', // https://www.exploit-db.com/exploits/12693/ https://www.exploit-db.com/exploits/12133/
+    'assetmanager.asp', // https://www.exploit-db.com/exploits/12693/ https://www.exploit-db.com/exploits/12133/
+    'assetmanager.aspx', // https://www.exploit-db.com/exploits/12693/ https://www.exploit-db.com/exploits/12133/
     'backup.cgi',
     'cgi-bin/bash',
     'cgi-bin/common/attr', // open proxy test

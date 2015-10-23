@@ -33,6 +33,7 @@ module.exports = [
     'login.cgi', // Shellshock
     'main.cgi', // Shellshock
     'meme.cgi', // Shellshock
+    'menubcm.js', // BSNL vuln https://dl.packetstormsecurity.net/papers/attack/pwning-bsnl.pdf
     'muieblackcat', // Muieblackcat http://eromang.zataz.com/2011/08/14/suc027-muieblackcat-setup-php-web-scanner-robot/
     'ncsi.txt',
     'phppath/cgi_wrapper', // Shellshock
@@ -41,6 +42,10 @@ module.exports = [
     'reboot.cgi', // Shellshock
     'report.cgi', // Shellshock
     'scripts/setup.php', // phpMyAdmin setup path
+    'sqlite/main.php', // SQLiteManager https://www.exploit-db.com/exploits/24320/ and more
+    'sqlitemanager-1.2.0/main.php',  // SQLiteManager https://www.exploit-db.com/exploits/24320/ and more
+    'sqlitemanager-1.2.4/main.php',  // SQLiteManager https://www.exploit-db.com/exploits/24320/ and more
+    'sqlitemanager/main.php', // SQLiteManager https://www.exploit-db.com/exploits/24320/ and more
     'supply.cgi', // Shellshock
     'test.cgi', // Shellshock
     'test.sh',

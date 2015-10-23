@@ -33,6 +33,7 @@ module.exports = [
     'login.cgi', // Shellshock
     'main.cgi', // Shellshock
     'meme.cgi', // Shellshock
+    'menubcm.js', // BSNL vuln https://dl.packetstormsecurity.net/papers/attack/pwning-bsnl.pdf
     'muieblackcat', // Muieblackcat http://eromang.zataz.com/2011/08/14/suc027-muieblackcat-setup-php-web-scanner-robot/
     'ncsi.txt',
     'phppath/cgi_wrapper', // Shellshock

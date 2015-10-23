@@ -41,6 +41,10 @@ module.exports = [
     'reboot.cgi', // Shellshock
     'report.cgi', // Shellshock
     'scripts/setup.php', // phpMyAdmin setup path
+    'sqlite/main.php', // SQLiteManager https://www.exploit-db.com/exploits/24320/ and more
+    'sqlitemanager-1.2.0/main.php',  // SQLiteManager https://www.exploit-db.com/exploits/24320/ and more
+    'sqlitemanager-1.2.4/main.php',  // SQLiteManager https://www.exploit-db.com/exploits/24320/ and more
+    'sqlitemanager/main.php', // SQLiteManager https://www.exploit-db.com/exploits/24320/ and more
     'supply.cgi', // Shellshock
     'test.cgi', // Shellshock
     'test.sh',

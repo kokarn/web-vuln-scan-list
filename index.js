@@ -16,6 +16,7 @@ module.exports = [
     'cgi-bin/php5', // Shellshock
     'cgi-bin/printenv', // Shellshock
     'cgi-bin/test', // Shellshock
+    'cgi-sys/php5', // Shellshock
     'concept.cgi', // Shellshock
     'contact.cgi', // Shellshock
     'count.cgi', // Shellshock
@@ -46,6 +47,7 @@ module.exports = [
     'muieblackcat', // Muieblackcat http://eromang.zataz.com/2011/08/14/suc027-muieblackcat-setup-php-web-scanner-robot/
     'ncsi.txt',
     'phppath/cgi_wrapper', // Shellshock
+    'phppath/php', // Shellshock
     'propfind /webdav/',
     'query.cgi', // Shellshock
     'reboot.cgi', // Shellshock

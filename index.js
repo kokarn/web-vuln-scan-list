@@ -21,6 +21,7 @@ module.exports = [
     'count.cgi', // Shellshock
     'counter.cgi', // Shellshock
     'defaultwebpage.cgi', // Shellshock
+    'elastixneo', // ElastixNeo Theme vulnerability
     'entropysearch.cgi', // Shellshock
     'env.cgi', // Shellshock
     'fire.cgi', // Shellshock

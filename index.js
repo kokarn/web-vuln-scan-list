@@ -61,6 +61,7 @@ module.exports = [
     'phppath/php', // Shellshock
     'pma2005', // phpMyAdmin
     'propfind /webdav/',
+    'proxyradar.com', // https://proxyradar.com/
     'query.cgi', // Shellshock
     'reboot.cgi', // Shellshock
     'recent.cgi', // Shellshock

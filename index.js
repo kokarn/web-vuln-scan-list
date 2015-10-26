@@ -1,6 +1,9 @@
 'use strict';
 
 module.exports = [
+    '/dbadmin/', // phpMyAdmin
+    '/mysql/',
+    '/pma/', // phpMyAdmin
     'admin.cgi', // Shellshock
     'administrator.cgi', // Shellshock
     'assetmanager.asp', // https://www.exploit-db.com/exploits/12693/ https://www.exploit-db.com/exploits/12133/
@@ -45,9 +48,17 @@ module.exports = [
     'meme.cgi', // Shellshock
     'menubcm.js', // BSNL vuln https://dl.packetstormsecurity.net/papers/attack/pwning-bsnl.pdf
     'muieblackcat', // Muieblackcat http://eromang.zataz.com/2011/08/14/suc027-muieblackcat-setup-php-web-scanner-robot/
+    'myadmin', // phpMyAdmin
+    'mysqlmanager', // phpMyAdmin
     'ncsi.txt',
+    'p/m/a', // phpMyAdmin
+    'php-my-admin', // phpMyAdmin
+    'php-myadmin', // phpMyAdmin
+    'phpmanager', // phpMyAdmin
+    'phpmy-admin', // phpMyAdmin
     'phppath/cgi_wrapper', // Shellshock
     'phppath/php', // Shellshock
+    'pma2005', // phpMyAdmin
     'propfind /webdav/',
     'query.cgi', // Shellshock
     'reboot.cgi', // Shellshock
@@ -59,6 +70,8 @@ module.exports = [
     'sqlitemanager-1.2.0/main.php',  // SQLiteManager https://www.exploit-db.com/exploits/24320/ and more
     'sqlitemanager-1.2.4/main.php',  // SQLiteManager https://www.exploit-db.com/exploits/24320/ and more
     'sqlitemanager/main.php', // SQLiteManager https://www.exploit-db.com/exploits/24320/ and more
+    'sqlmanager', // phpMyAdmin
+    'sqlweb', // phpMyAdmin
     'supply.cgi', // Shellshock
     'test.cgi', // Shellshock
     'test.sh',

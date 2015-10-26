@@ -36,6 +36,7 @@ module.exports = [
     'getheaders9.php',
     'hello.cgi', // Shellshock
     'helpdesk.cgi', // Shellshock
+    'hideme.ru', // hideme.ru
     'hnap1', // D-Link HNAP https://dl.packetstormsecurity.net/papers/attack/dlink_hnap_captcha.pdf
     'httptest.php',
     'hudson/script', // Shellshock via Jenkins http://jenkins-ci.org/content/cve-2014-6271-impact-jenkins

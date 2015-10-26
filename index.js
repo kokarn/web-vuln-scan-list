@@ -1,6 +1,9 @@
 'use strict';
 
 module.exports = [
+    '/dbadmin/', // phpMyAdmin
+    '/mysql/',
+    '/pma/', // phpMyAdmin
     'admin.cgi', // Shellshock
     'administrator.cgi', // Shellshock
     'assetmanager.asp', // https://www.exploit-db.com/exploits/12693/ https://www.exploit-db.com/exploits/12133/
@@ -16,6 +19,7 @@ module.exports = [
     'cgi-bin/php5', // Shellshock
     'cgi-bin/printenv', // Shellshock
     'cgi-bin/test', // Shellshock
+    'cgi-sys/php5', // Shellshock
     'concept.cgi', // Shellshock
     'contact.cgi', // Shellshock
     'count.cgi', // Shellshock
@@ -32,6 +36,7 @@ module.exports = [
     'getheaders9.php',
     'hello.cgi', // Shellshock
     'helpdesk.cgi', // Shellshock
+    'hideme.ru', // hideme.ru
     'hnap1', // D-Link HNAP https://dl.packetstormsecurity.net/papers/attack/dlink_hnap_captcha.pdf
     'httptest.php',
     'hudson/script', // Shellshock via Jenkins http://jenkins-ci.org/content/cve-2014-6271-impact-jenkins
@@ -44,9 +49,19 @@ module.exports = [
     'meme.cgi', // Shellshock
     'menubcm.js', // BSNL vuln https://dl.packetstormsecurity.net/papers/attack/pwning-bsnl.pdf
     'muieblackcat', // Muieblackcat http://eromang.zataz.com/2011/08/14/suc027-muieblackcat-setup-php-web-scanner-robot/
+    'myadmin', // phpMyAdmin
+    'mysqlmanager', // phpMyAdmin
     'ncsi.txt',
+    'p/m/a', // phpMyAdmin
+    'php-my-admin', // phpMyAdmin
+    'php-myadmin', // phpMyAdmin
+    'phpmanager', // phpMyAdmin
+    'phpmy-admin', // phpMyAdmin
     'phppath/cgi_wrapper', // Shellshock
+    'phppath/php', // Shellshock
+    'pma2005', // phpMyAdmin
     'propfind /webdav/',
+    'proxyradar.com', // https://proxyradar.com/
     'query.cgi', // Shellshock
     'reboot.cgi', // Shellshock
     'recent.cgi', // Shellshock
@@ -57,6 +72,8 @@ module.exports = [
     'sqlitemanager-1.2.0/main.php',  // SQLiteManager https://www.exploit-db.com/exploits/24320/ and more
     'sqlitemanager-1.2.4/main.php',  // SQLiteManager https://www.exploit-db.com/exploits/24320/ and more
     'sqlitemanager/main.php', // SQLiteManager https://www.exploit-db.com/exploits/24320/ and more
+    'sqlmanager', // phpMyAdmin
+    'sqlweb', // phpMyAdmin
     'supply.cgi', // Shellshock
     'test.cgi', // Shellshock
     'test.sh',

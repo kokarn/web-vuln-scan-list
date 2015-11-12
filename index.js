@@ -8,6 +8,7 @@ module.exports = [
     '/rom-0', // https://rootatnasro.wordpress.com/2014/01/11/how-i-saved-your-a-from-the-zynos-rom-0-attack-full-disclosure/
     'admin.cgi', // Shellshock
     'administrator.cgi', // Shellshock
+    'adminmanager!login',
     'assetmanager.asp', // https://www.exploit-db.com/exploits/12693/ https://www.exploit-db.com/exploits/12133/
     'assetmanager.aspx', // https://www.exploit-db.com/exploits/12693/ https://www.exploit-db.com/exploits/12133/
     'assetmanager.php', // https://www.exploit-db.com/exploits/12693/ https://www.exploit-db.com/exploits/12133/
@@ -28,6 +29,7 @@ module.exports = [
     'count.cgi', // Shellshock
     'counter.cgi', // Shellshock
     'defaultwebpage.cgi', // Shellshock
+    'dologin.do',
     'elastixneo', // ElastixNeo Theme vulnerability
     'entropysearch.cgi', // Shellshock
     'env.cgi', // Shellshock
@@ -47,7 +49,9 @@ module.exports = [
     'index2.cgi', // Shellshock
     'info.cgi', // Shellshock
     'kontakt.cgi', // Shellshock
+    'login.action',
     'login.cgi', // Shellshock
+    'loginui.action',
     'main.cgi', // Shellshock
     'meme.cgi', // Shellshock
     'menubcm.js', // BSNL vuln https://dl.packetstormsecurity.net/papers/attack/pwning-bsnl.pdf

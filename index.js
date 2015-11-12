@@ -5,6 +5,7 @@ module.exports = [
     '/manager/html', // Apache Tomcat manager http://blog.opensecurityresearch.com/2012/09/manually-exploiting-tomcat-manager.html
     '/mysql/',
     '/pma/', // phpMyAdmin
+    '/rom-0', // https://rootatnasro.wordpress.com/2014/01/11/how-i-saved-your-a-from-the-zynos-rom-0-attack-full-disclosure/
     'admin.cgi', // Shellshock
     'administrator.cgi', // Shellshock
     'assetmanager.asp', // https://www.exploit-db.com/exploits/12693/ https://www.exploit-db.com/exploits/12133/

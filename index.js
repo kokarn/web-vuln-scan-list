@@ -2,6 +2,7 @@
 
 module.exports = [
     '/dbadmin/', // phpMyAdmin
+    '/manager/html', // Apache Tomcat manager http://blog.opensecurityresearch.com/2012/09/manually-exploiting-tomcat-manager.html
     '/mysql/',
     '/pma/', // phpMyAdmin
     'admin.cgi', // Shellshock

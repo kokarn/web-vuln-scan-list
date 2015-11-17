@@ -33,6 +33,7 @@ module.exports = [
     'elastixneo', // ElastixNeo Theme vulnerability
     'entropysearch.cgi', // Shellshock
     'env.cgi', // Shellshock
+    'fck_about.html', // TinyMCE editor-ish
     'fire.cgi', // Shellshock
     'firewall.cgi', // Shellshock
     'formmail.cgi', // Shellshock

@@ -13,6 +13,7 @@ module.exports = [
     'assetmanager.aspx', // https://www.exploit-db.com/exploits/12693/ https://www.exploit-db.com/exploits/12133/
     'assetmanager.php', // https://www.exploit-db.com/exploits/12693/ https://www.exploit-db.com/exploits/12133/
     'backup.cgi', // Shellshock
+    'cachefly', // http://www.cachefly.com/
     'cfide/administrator/', // ColdFusion administrator https://www.petefreitag.com/item/750.cfm
     'cgi-bin-sdb/printenv', // Shellshock
     'cgi-bin/bash', // Shellshock
